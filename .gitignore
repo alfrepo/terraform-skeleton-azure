@@ -1,0 +1,3 @@
+.terraform
+/infrastructure/terraform/001_project_your_project/environments/env1/PLAN.TERRAFORM
+/infrastructure/terraform/001_project_your_project/environments/env1/terraform.tfstate.backup
